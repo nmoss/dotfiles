@@ -1,0 +1,54 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "nbm/")
+ ("/home/nbm/ai/" . "6601_assignment-2/")
+ ("/home/nbm/" . "sf/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/nbm/sf/"
+ "/home/nbm/ai/6601_assignment-2/"
+ "/home/nbm/ai/assignment_1/"
+ "/home/nbm/AI_Prog/"
+ "/home/nbm/"
+ "/home/nbm/Coq/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Poly.v"
+ "search_tests.py"
+ "search_notebook.ipynb"
+ "MoreCoq.v"
+ "MoreLogic.v"
+ "isolation.py"
+ "player_notebook.py"
+ "test.py"
+ "game.py"
+ "Lists.v"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/nbm/sf/" (22030 59411 837132 678000) "Basics.v" "SfLib.html" "._MoreInd.html" "._Smallstep.v" "._Typechecking.html" "Induction.glob" "._Prop.v" "Induction.v~" "Typechecking.html" "._Norm.html" "._Basics.html" "index-bg.jpg" "._SfLib.html" "Stlc.html" "MoreInd.v" "Prop.v" "Logic.vo" "._jquery.maphilight.min.js" "._PE.v" "._LICENSE" "StlcProp.v" "Postscript.html" "#Induction.v#" "._ImpParser.v" "._impdriver.ml" "._slides.js" "#Prop.v#" "ProofObjects.html" "._References.v" "main.js" "._Types.html" "StlcProp.html" "Equiv.v" "._coqdoc.css" "Lists.glob" "._Poly.html" "imp2.mli" "._MoreLogic.html" "._ProofObjects.html" "._Basics.v" "._Poly.v" "._Auto.v" "MoreCoq.vo" "._.depend" "LibTactics.html" "Types.html" "._Makefile" "ImpCEvalFun.v" "imp1.mli" "._Types.v" "._imp1.mli" "._HoareAsLogic.v" "imp.ml" "References.html" "MoreCoq.glob" "._deps.gif" "._PE.html" "Symbols.html" "References.v" "Extraction.html" "Sub.html" "._normdriver.ml" "imp1.ml" "Extraction.v" "LibTactics.v" "ProofObjects.v" "._ProofObjects.v" "._imp.mli" "Smallstep.html" "._UseTactics.v" "imp.mli" "._Induction.v" "._Smallstep.html" "slides.js" "._RecordSub.html" "._imp2.mli" "._Lists.html" "deps.html" "Symbols.v" "._Equiv.html" "coqdoc.css" "._Imp.html" "RecordSub.html" "ImpParser.v" "MoreStlc.v" "Poly.v" "Basics.html" "HoareAsLogic.html" "Stlc.v" "MoreLogic.html" "Postscript.v" "._MoreInd.v" "Basics.glob" "Prop.html" "Rel.v" "._Logic.html" "._SfLib.v" "Hoare.v" "Poly.html" "._Sub.html" "Imp.v" "._MoreLogic.v" "._Hoare2.v" "Basics.vo" ".depend" "._coqindex.html" "MoreInd.html" "Lists.v~" "._Stlc.html" "._Postscript.v" "._index.html" "._Norm.v" "Norm.html" "._Induction.html" "Poly.glob" "Logic.v" "._deps.html" "Preface.v" "Records.html" "MoreCoq.v~" "._Preface.v" "Induction.v" "deps.map" "MoreCoq.html" "MoreLogic.v" "PE.html" "._jquery-1.8.3.js" ".#Prop.v" "jquery-1.8.3.js" "._LibTactics.v" "toc.html" "._Stlc.v" "Prop.v~" "Rel.html" "._Records.v" "._ImpCEvalFun.html" "._StlcProp.v" "._index-bg.jpg" "UseAuto.v" "Auto.html" "RecordSub.v" "SfLib.v" "ImpCEvalFun.html" "Preface.html" "Hoare2.v" "._MoreCoq.html" "MoreCoq.v" "Logic.html" "UseTactics.v" "._StlcProp.html" "Auto.v" "._Lists.v" "._Sub.v" "._Rel.html" "Logic.glob" "._Logic.v" "._Postscript.html" "imp2.ml" "._imp.ml" "Types.v" "Lists.v" "Basics.v~" "ImpParser.html" "Makefile" "._UseTactics.html" "._ImpCEvalFun.v" "._MoreStlc.v" "._RecordSub.v" "._imp1.ml" "._Hoare.html" "._deps.map" "._Symbols.v" "UseTactics.html" "._ImpParser.html" "Logic.v~" "._LibTactics.html" "._Preface.html" "Hoare2.html" "._UseAuto.html" "._Records.html" "Typechecking.v" "Records.v" "impdriver.ml" "._Imp.v" "UseAuto.html" "._main.js" "._imp2.ml" "Hoare.html" "Equiv.html" "Lists.html" "PE.v" "Induction.vo" "Imp.html" "Norm.v" "normdriver.ml" "coqindex.html" "._Typechecking.v" "index.html" "._Extraction.v" "Poly.v~" "._Hoare.v" "HoareAsLogic.v" "._Prop.html" "MoreStlc.html" "._Auto.html" "._Rel.v" "jquery.maphilight.min.js" "._Extraction.html" "._toc.html" "._MoreCoq.v" "._UseAuto.v" "._Hoare2.html" "LICENSE" "._Symbols.html" "Lists.vo" "Poly.vo" "._References.html" "._Equiv.v" "Smallstep.v" "._MoreStlc.html" "deps.gif" "Induction.html" "Sub.v" "._HoareAsLogic.html" "../" "./")
+
+ ("/home/nbm/ai/6601_assignment-2/" (22026 24163 13926 485000) "romania_bidirectional_a_star_euclidean_test_paths.pickle" "romania_ucs_bidirectional_test_paths.pickle" "visualize_graph.py" "../" "romania_graph.pickle" "romania_null_a_star_test_paths.pickle" "osm2networkx.pyc" "atlanta_bfs_paths.pickle" "romania_euclidean_a_star_test_paths.pickle" "atlanta.osm" "./" "romania_bidirectional_a_star_null_test_paths.pickle" "osm2networkx.py" "__MACOSX/" "search_tests.py" ".ipynb_checkpoints/" "lib/" "romania_tridirectional_paths.pickle" "search_tests.pyc" "romania_test_paths.pickle" "search_tests.py~" "atlanta_osm.pickle" "romania_ucs_test_paths.pickle" ".search_notebook.ipynb.swp" "search_notebook.ipynb" "6601-assignment-2.pdf")
+
+ ("/home/nbm/ai/" (22025 40502 685813 183000) "webapp.py" "../" "./" "assignment_1/" "6601_assignment-2.zip" "6601_assignment-2/")
+
+ ("/home/nbm/" (22025 54851 3691 253000) ".local/" ".profile" "Emulators/" ".emacs" "Prolog/" "Public/" "../" ".config/" ".gnome2_private/" ".bash_logout" ".mozilla/" ".ipython/" ".nv/" "./" ".bash_history" "Music/" "emacs_plugins/" ".ICEauthority" ".macromedia/" "Pictures/" ".dbus/" "Templates/" "sf/" "Coq/" "Documents/" ".swipl-dir-history/" ".ssh/" ".python_history" ".cache/" ".adobe/" ".pki/" ".gconf/" ".gnome2/" "Videos/" "._sf" ".slime/" ".gnupg/" ".continuum/" ".bashrc~" "anaconda/" ".atom/" ".bashrc" "Desktop/" "Downloads/" ".bashrc-anaconda.bak" "VirtualBox VMs/" ".emacs~" "AI_Prog/" "ai/" ".emacs.d/")
+
+ ("/home/nbm/ai/assignment_1/" (22010 23370 635034 906000) "webapp.py" "../" "6601-assignment-1.pdf" "./" "__pycache__/" "isolation.py" "isolation.py~" ".ipynb_checkpoints/" "player_notebook.py" "isolation.pyc" "player_notebook.py~" "player_notebook.ipynb")
+
+ ("/home/nbm/AI_Prog/" (22009 62779 890942 394000) "test.py" "#game.py#" "#tictac.py#" "../" "./" "tictactoe.py~" "tictactoe.py" "game.py" "test.py~" "tictactoe.lisp~" "tictactoe.lisp" "game.py~" "#tictac.java#")
+
+ ("/home/" (21941 40134 818540 876000) "../" "./" "nbm/")
+
+ ("/home/nbm/Coq/" (21975 41417 942985 466000) "../" "./" "#slimetest.lisp#" "hello" "hello.c~" "test.v~" "test.vo" "makefile" "makefile~" "slimetest.lisp~" "test.v" "slimetest.lisp" "hello.c" "test.glob")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
